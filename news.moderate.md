@@ -1,20 +1,24 @@
-## 19 November 2026 - Moderate Impact Forex News
+## 20 November 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Oct) | -43.5K | 25.5K | -36.4K |
-| 00:30 | AUD | Full Employment Change (Oct) | -2.9K |  | 35.4K |
-| 00:30 | AUD | Unemployment Rate (Oct) | 4.9% | 4.7% | 4.7% |
-| 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | ZAR | Interest Rate Decision (Nov) | 7.25% | 7.25% | 7.25% |
-| 13:30 | USD | Continuing Jobless Claims | 1,763K | 1,710K | 1,693K |
-| 13:30 | USD | Philly Fed Employment (Nov) | 11.6 |  | 9.1 |
-| 13:30 | CAD | RMPI (MoM) (Oct) | -1.0% | 0.9% | 4.5% |
-| 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:00 | USD | US Leading Index (MoM) (Oct) | -0.3% | 0.0% | 0.0% |
-| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 18:00 | USD | 10-Year TIPS Auction | 2.903% |  | 2.653% |
-| 19:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,759B |
-| 23:30 | JPY | National Core CPI (YoY) (Oct) |  | 2.3% | 2.1% |
+| 01:00 | CNY | China Loan Prime Rate 5Y (Nov) | 3.50% | 3.50% | 3.50% |
+| 01:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Oct) |  |  | -0.7% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Oct) |  |  | 0.8% |
+| 07:00 | GBP | Retail Sales (MoM) (Oct) |  | 0.0% | -0.4% |
+| 07:00 | GBP | Retail Sales (YoY) (Oct) |  |  | 0.8% |
+| 07:00 | EUR | German PPI (MoM) (Oct) |  | 0.5% | 1.9% |
+| 08:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:25 | USD | Fed Waller Speaks |  |  |  |
+| 13:30 | CAD | Core Retail Sales (MoM) (Sep) |  | 0.7% | 1.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Sep) |  | 0.7% | 1.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Sep) |  |  | 1.2% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  |  | -1.6% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 4.3% | 4.3% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.4% | 3.4% |
+| 15:00 | USD | Michigan Consumer Expectations (Nov) |  | 50.9 | 50.9 |
+| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 51.0 | 51.0 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 463 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 601 |

@@ -1,6 +1,3 @@
-## 19 November 2026 - High Impact Forex News
+## 20 November 2026 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims | 203K | 198K | 202K |
-| 13:30 | USD | Philadelphia Fed Manufacturing Index (Nov) | 6.3 | 20.6 | 20.9 |
+There is no high impact news today.
