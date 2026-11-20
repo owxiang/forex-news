@@ -13,13 +13,13 @@
 | 08:30 | HKD | CPI (MoM) (Oct) | 0.60% |  | 0.30% |
 | 08:30 | HKD | CPI (YoY) (Oct) | 2.20% |  | 1.90% |
 | 09:00 | CNY | FDI (Oct) | -2.40% |  | -4.30% |
-| 11:30 | INR | FX Reserves, USD |  |  | 719.55B |
-| 11:30 | INR | Industrial Production (YoY) (Oct) |  |  | 6.7% |
-| 12:00 | MXN | Retail Sales (YoY) (Sep) |  | 2.7% | 3.3% |
-| 12:00 | MXN | Retail Sales (MoM) (Sep) |  | -0.3% | 1.2% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  |  | 0.1% |
-| 15:00 | USD | Michigan Current Conditions (Nov) |  | 51.0 | 46.7 |
-| 15:00 | EUR | Consumer Confidence (Nov) |  | -18.0 | -17.9 |
+| 11:30 | INR | FX Reserves, USD | 705.34B |  | 719.55B |
+| 11:30 | INR | Infrastructure Output (YoY) (Oct) | 10.9% |  | 8.2% |
+| 12:00 | MXN | Retail Sales (YoY) (Sep) | 2.2% | 2.7% | 3.3% |
+| 12:00 | MXN | Retail Sales (MoM) (Sep) | -0.3% | -0.3% | 1.2% |
+| 15:00 | USD | Michigan Current Conditions (Nov) | 49.4 | 51.0 | 46.7 |
+| 15:00 | EUR | Consumer Confidence (Nov) | -16.9 | -18.0 | -17.9 |
+| 15:30 | CAD | BoC Senior Loan Officer Survey (Q3) | -6.5 |  | -1.0 |
 | 17:15 | USD | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 28.9K |
