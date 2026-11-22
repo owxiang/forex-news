@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:45 | NZD | Retail Sales (QoQ) (Q3) |  |  | -0.5% |
+| 21:45 | NZD | Retail Sales (QoQ) (Q3) |  | 0.5% | -0.5% |
