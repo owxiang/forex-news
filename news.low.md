@@ -11,14 +11,14 @@
 | 08:15 | EUR | HCOB France Composite PMI (Nov) | 46.2 | 48.1 | 46.6 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Nov) | 55.0 | 53.3 | 53.4 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Economic Activity (YoY) (Sep) |  | 2.70% | 3.30% |
-| 12:00 | MXN | Economic Activity (MoM) (Sep) |  | -0.60% | 0.60% |
-| 13:30 | USD | Chicago Fed National Activity (Oct) |  |  | 0.07 |
-| 13:30 | CAD | Corporate Profits (QoQ) |  |  | 9.7% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  |  | 0.0% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.389% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.708% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.158% |
-| 16:30 | USD | 3-Month Bill Auction |  | 4.111% | 4.155% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.310% |
-| 21:00 | KRW | Consumer Confidence (Nov) |  |  | 105.4 |
+| 12:00 | MXN | Economic Activity (YoY) (Sep) | 3.00% | 2.70% | 3.60% |
+| 12:00 | MXN | Economic Activity (MoM) (Sep) | -0.70% | -0.60% | 0.40% |
+| 13:30 | USD | Chicago Fed National Activity (Oct) | -0.06 | 0.20 | 0.05 |
+| 13:30 | CAD | Corporate Profits (QoQ) | -2.0% |  | 9.7% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) | 2.3% |  | 0.0% |
+| 14:30 | EUR | French 12-Month BTF Auction | 3.309% |  | 3.389% |
+| 14:30 | EUR | French 3-Month BTF Auction | 2.887% |  | 2.708% |
+| 14:30 | EUR | French 6-Month BTF Auction | 3.112% |  | 3.158% |
+| 16:30 | USD | 3-Month Bill Auction | 4.180% | 4.111% | 4.155% |
+| 16:30 | USD | 6-Month Bill Auction | 4.340% |  | 4.310% |
+| 21:00 | KRW | Consumer Confidence (Nov) | 103.1 |  | 105.4 |
