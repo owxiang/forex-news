@@ -1,24 +1,35 @@
-## 23 November 2026 - Low Impact Forex News
+## 24 November 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | IDR | M2 Money Supply (YoY) (Oct) | 9.30% |  | 8.50% |
-| 05:00 | INR | HSBC India Manufacturing PMI (Nov) | 56.0 | 54.5 | 54.7 |
-| 05:00 | INR | HSBC India Services PMI (Nov) | 55.3 | 56.0 | 55.8 |
-| 05:00 | INR | HSBC Manufacturing & Services PMI (Nov) | 56.30 | 56.30 | 56.20 |
-| 05:00 | SGD | CPI (MoM) (Oct) | -0.30% |  | 0.20% |
-| 08:00 | CHF | M3 Money Supply (Oct) | 1,248.9B |  | 1,237.6B |
-| 08:15 | EUR | HCOB France Composite PMI (Nov) | 46.2 | 48.1 | 46.6 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Nov) | 55.0 | 53.3 | 53.4 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Economic Activity (YoY) (Sep) | 3.00% | 2.70% | 3.60% |
-| 12:00 | MXN | Economic Activity (MoM) (Sep) | -0.70% | -0.60% | 0.40% |
-| 13:30 | USD | Chicago Fed National Activity (Oct) | -0.06 | 0.20 | 0.05 |
-| 13:30 | CAD | Corporate Profits (QoQ) | -2.0% |  | 9.7% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) | 2.3% |  | 0.0% |
-| 14:30 | EUR | French 12-Month BTF Auction | 3.309% |  | 3.389% |
-| 14:30 | EUR | French 3-Month BTF Auction | 2.887% |  | 2.708% |
-| 14:30 | EUR | French 6-Month BTF Auction | 3.112% |  | 3.158% |
-| 16:30 | USD | 3-Month Bill Auction | 4.180% | 4.111% | 4.155% |
-| 16:30 | USD | 6-Month Bill Auction | 4.340% |  | 4.310% |
-| 21:00 | KRW | Consumer Confidence (Nov) | 103.1 |  | 105.4 |
+| 00:00 | SGD | GDP (QoQ) (Q3) | 1.5% | 1.1% | 1.8% |
+| 00:00 | SGD | GDP (YoY) (Q3) | 6.1% | 5.4% | 6.4% |
+| 00:30 | JPY | Manufacturing & Services PMI (Nov) | 51.50 |  | 52.10 |
+| 00:30 | JPY | S&P Global Manufacturing PMI (Nov) | 53.7 | 53.5 | 53.3 |
+| 05:00 | GBP | Car Registration (YoY) (Oct) | 5.4% |  | 12.0% |
+| 05:00 | GBP | Car Registration (MoM) (Oct) | -56.4% |  | 272.0% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Oct) | -5.4% |  | 100.5% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Oct) | 5.0% |  | 9.8% |
+| 05:00 | EUR | German Car Registration (YoY) (Oct) | 1.7% |  | 9.0% |
+| 05:00 | EUR | German Car Registration (MoM) (Oct) | -0.9% |  | 20.8% |
+| 05:00 | EUR | French Car Registration (MoM) (Oct) | -4.7% |  | 66.0% |
+| 05:00 | EUR | French Car Registration (YoY) (Oct) | 7.0% |  | 11.6% |
+| 07:00 | NOK | M3 Money Supply (Oct) |  |  | 3,635.6B |
+| 07:00 | NOK | Credit Indicator (YoY) (Oct) |  |  | 4.9% |
+| 07:00 | ZAR | Leading Indicators (Sep) |  |  | 119.60% |
+| 08:00 | EUR | Spanish PPI (YoY) (Oct) |  |  | 18.3% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Nov) |  | -27 | -10 |
+| 11:00 | BRL | FGV Consumer confidence (Nov) |  |  | 84.7 |
+| 12:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.10% | 0.25% |
+| 12:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.51% | 0.41% |
+| 13:55 | USD | Redbook (YoY) |  |  | 9.5% |
+| 14:00 | USD | House Price Index (MoM) (Sep) |  | 0.2% | 0.3% |
+| 14:00 | USD | House Price Index (YoY) (Sep) |  |  | 2.4% |
+| 14:00 | USD | House Price Index (Sep) |  |  | 444.6 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.3% |
+| 15:00 | USD | Richmond Manufacturing Index (Nov) |  | -2 | -2 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Nov) |  |  | 0 |
+| 15:00 | USD | Richmond Services Index (Nov) |  |  | 2 |
+| 16:30 | USD | 52-Week Bill Auction |  |  | 3.980% |
+| 18:00 | USD | M2 Money Supply (MoM) (Oct) |  |  | 23.41T |
+| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) (Oct) |  | 3.6% | 3.7% |

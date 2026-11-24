@@ -1,45 +1,46 @@
-## 23 November 2026 - All Forex News
+## 24 November 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 9.30% |  | 8.50% |
-| 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 56.0 | 54.5 | 54.7 |
-| 05:00 | INR | Low | HSBC India Services PMI (Nov) | 55.3 | 56.0 | 55.8 |
-| 05:00 | INR | Low | HSBC Manufacturing & Services PMI (Nov) | 56.30 | 56.30 | 56.20 |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Oct) | 1.50% |  | 2.00% |
-| 05:00 | SGD | Low | CPI (MoM) (Oct) | -0.30% |  | 0.20% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Oct) | 1.9% |  | 2.2% |
-| 08:00 | CHF | Low | M3 Money Supply (Oct) | 1,248.9B |  | 1,237.6B |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 47.9 | 49.8 | 49.5 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Nov) | 46.2 | 48.1 | 46.6 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Nov) | 46.6 | 47.4 | 46.2 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Nov) | 55.0 | 53.3 | 53.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) | 55.0 | 54.1 | 54.2 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Nov) | 54.0 | 52.4 | 52.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) | 52.9 | 52.7 | 52.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 51.7 | 51.9 | 51.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 51.2 | 51.8 | 51.4 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Nov) | 52.3 | 51.9 | 52.9 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Nov) | 52.7 | 53.0 | 52.8 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Nov) | 52.0 | 53.0 | 52.8 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Sep) | 3.00% | 2.70% | 3.60% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Sep) | -0.70% | -0.60% | 0.40% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) | 0.9% | 0.9% | 1.4% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q3) | 3.3% | 3.2% | 2.1% |
-| 13:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Oct) | -0.06 | 0.20 | 0.05 |
-| 13:30 | CAD | Low | Corporate Profits (QoQ) | -2.0% |  | 9.7% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) | 2.3% |  | 0.0% |
-| 14:30 | EUR | Low | French 12-Month BTF Auction | 3.309% |  | 3.389% |
-| 14:30 | EUR | Low | French 3-Month BTF Auction | 2.887% |  | 2.708% |
-| 14:30 | EUR | Low | French 6-Month BTF Auction | 3.112% |  | 3.158% |
-| 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Nov) | 54.5 | 54.5 | 54.9 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) | 54.6 | 55.6 | 55.9 |
-| 14:45 | USD | High | S&P Global Services PMI (Nov) | 54.7 | 55.6 | 56.1 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.180% | 4.111% | 4.155% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.340% |  | 4.310% |
-| 18:00 | USD | Moderate | 2-Year Note Auction | 4.700% |  | 4.708% |
-| 21:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 21:00 | KRW | Low | Consumer Confidence (Nov) | 103.1 |  | 105.4 |
+| 00:00 | SGD | Low | GDP (QoQ) (Q3) | 1.5% | 1.1% | 1.8% |
+| 00:00 | SGD | Low | GDP (YoY) (Q3) | 6.1% | 5.4% | 6.4% |
+| 00:30 | JPY | Low | Manufacturing & Services PMI (Nov) | 51.50 |  | 52.10 |
+| 00:30 | JPY | Low | S&P Global Manufacturing PMI (Nov) | 53.7 | 53.5 | 53.3 |
+| 00:30 | JPY | Moderate | S&P Global Services PMI (Nov) | 50.5 |  | 51.7 |
+| 05:00 | GBP | Low | Car Registration (YoY) (Oct) | 5.4% |  | 12.0% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Oct) | -56.4% |  | 272.0% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Oct) | -5.4% |  | 100.5% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Oct) | 5.0% |  | 9.8% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Oct) | 1.7% |  | 9.0% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Oct) | -0.9% |  | 20.8% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Oct) | -4.7% |  | 66.0% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Oct) | 7.0% |  | 11.6% |
+| 07:00 | NOK | Low | M3 Money Supply (Oct) |  |  | 3,635.6B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Oct) |  |  | 4.9% |
+| 07:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 119.60% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Oct) |  |  | 18.3% |
+| 09:00 | EUR | Moderate | German Business Expectations (Nov) |  | 92.0 | 91.6 |
+| 09:00 | EUR | Moderate | German Current Assessment (Nov) |  | 89.2 | 88.8 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) |  | 90.5 | 90.2 |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) |  | -27 | -10 |
+| 11:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 84.7 |
+| 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) |  | 0.10% | 0.25% |
+| 12:00 | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.51% | 0.41% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 23.80K |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 9.5% |
+| 14:00 | USD | Low | House Price Index (MoM) (Sep) |  | 0.2% | 0.3% |
+| 14:00 | USD | Low | House Price Index (YoY) (Sep) |  |  | 2.4% |
+| 14:00 | USD | Low | House Price Index (Sep) |  |  | 444.6 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.3% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 2.7% | 2.7% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.4% |
+| 15:00 | USD | High | CB Consumer Confidence (Nov) |  | 92.4 | 91.7 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Nov) |  | -2 | -2 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Nov) |  |  | 0 |
+| 15:00 | USD | Low | Richmond Services Index (Nov) |  |  | 2 |
+| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.980% |
+| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.708% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Oct) |  |  | 23.41T |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 5.300M |
+| 23:20 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) (Oct) |  | 3.6% | 3.7% |
