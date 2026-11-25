@@ -3,10 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Construction Work Done (QoQ) (Q3) | 0.9% | 0.8% | -0.1% |
-| 05:00 | JPY | BoJ Core CPI (YoY) |  | 2.5% | 2.5% |
-| 07:00 | EUR | German GDP (YoY) (Q3) |  | 1.2% | 1.2% |
+| 05:00 | JPY | BoJ Core CPI (YoY) | 2.6% | 2.5% | 2.5% |
+| 07:00 | EUR | German GDP (YoY) (Q3) | 1.1% | 1.2% | 1.0% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 3.370% |
+| 10:30 | EUR | German 10-Year Bund Auction | 3.220% |  | 3.370% |
+| 12:25 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Oct) |  | 1.295M | 1.398M |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,763K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Oct) |  | 0.5% | 0.5% |

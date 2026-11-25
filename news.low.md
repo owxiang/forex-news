@@ -5,22 +5,21 @@
 | 00:30 | AUD | Trimmed Mean CPI (YoY) (Oct) | 3.8% | 3.6% | 3.6% |
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 4.90% | 4.70% | 4.30% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.4% |
-| 07:00 | NOK | Unemployment Rate (Oct) |  |  | 5.0% |
-| 07:45 | EUR | French Consumer Confidence (Nov) |  | 82 | 80 |
-| 09:00 | CHF | ZEW Expectations (Nov) |  |  | -15.3 |
-| 11:30 | INR | M3 Money Supply |  |  | 16.5% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.35% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.3% |
-| 12:00 | USD | MBA Purchase Index |  |  | 137.6 |
-| 12:00 | USD | Mortgage Market Index |  |  | 199.8 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 532.8 |
+| 07:00 | NOK | Unemployment Rate (Oct) | 4.6% |  | 5.0% |
+| 07:45 | EUR | French Consumer Confidence (Nov) | 82 | 82 | 81 |
+| 09:00 | CHF | ZEW Expectations (Nov) | 2.3 |  | -15.3 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.38% |  | 7.35% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 6.1% |  | -2.3% |
+| 12:00 | USD | MBA Purchase Index | 151.6 |  | 137.6 |
+| 12:00 | USD | Mortgage Market Index | 212.0 |  | 199.8 |
+| 12:00 | USD | Mortgage Refinance Index | 535.5 |  | 532.8 |
 | 13:30 | USD | Building Permits (MoM) (Oct) |  | -7.4% | -0.4% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 7.7% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 2.3% |
 | 13:30 | USD | GDP Sales (Q3) |  | 1.7% | 2.8% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 197.75K |
-| 13:30 | USD | PCE Prices (Q3) |  | 2.1% | 2.1% |
+| 13:30 | USD | PCE Prices (Q3) |  | 2.1% | 5.0% |
 | 13:30 | USD | Personal Income (MoM) (Oct) |  | 0.4% | 0.2% |
 | 13:30 | USD | Real Consumer Spending (Q3) |  | 3.8% | 3.8% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
