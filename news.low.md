@@ -1,36 +1,42 @@
-## 24 November 2026 - Low Impact Forex News
+## 25 November 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | SGD | GDP (QoQ) (Q3) | 1.5% | 1.1% | 1.8% |
-| 00:00 | SGD | GDP (YoY) (Q3) | 6.1% | 5.4% | 6.4% |
-| 00:30 | JPY | Manufacturing & Services PMI (Nov) | 51.50 |  | 52.10 |
-| 00:30 | JPY | S&P Global Manufacturing PMI (Nov) | 53.7 | 53.5 | 53.3 |
-| 05:00 | GBP | Car Registration (YoY) (Oct) | 5.4% |  | 12.0% |
-| 05:00 | GBP | Car Registration (MoM) (Oct) | -56.4% |  | 272.0% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Oct) | -5.4% |  | 100.5% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Oct) | 5.0% |  | 9.8% |
-| 05:00 | EUR | German Car Registration (YoY) (Oct) | 1.7% |  | 9.0% |
-| 05:00 | EUR | German Car Registration (MoM) (Oct) | -0.9% |  | 20.8% |
-| 05:00 | EUR | French Car Registration (MoM) (Oct) | -4.7% |  | 66.0% |
-| 05:00 | EUR | French Car Registration (YoY) (Oct) | 7.0% |  | 11.6% |
-| 07:00 | NOK | M3 Money Supply (Oct) | 3,651.6B |  | 3,635.6B |
-| 07:00 | NOK | Credit Indicator (YoY) (Oct) | 4.9% |  | 4.9% |
-| 07:00 | ZAR | Leading Indicators (Sep) | 119.30% |  | 119.60% |
-| 08:00 | EUR | Spanish PPI (YoY) (Oct) | 19.9% |  | 18.3% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Nov) | 9 | -27 | -10 |
-| 11:00 | BRL | FGV Consumer confidence (Nov) | 83.5 |  | 84.7 |
-| 12:00 | MXN | 1st Half-Month Core CPI (Nov) | -0.10% | 0.10% | 0.25% |
-| 12:00 | MXN | 1st Half-Month CPI (Nov) | 0.54% | 0.51% | 0.41% |
-| 12:00 | BRL | Federal Tax Revenue (Oct) | 293.98B |  | 239.38B |
-| 13:55 | USD | Redbook (YoY) | 11.3% |  | 9.5% |
-| 14:00 | USD | House Price Index (MoM) (Sep) | 0.0% | 0.2% | 0.2% |
-| 14:00 | USD | House Price Index (YoY) (Sep) | 2.5% |  | 2.4% |
-| 14:00 | USD | House Price Index (Sep) | 444.4 |  | 444.3 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.1% |  | 0.2% |
-| 15:00 | USD | Richmond Manufacturing Index (Nov) | 3 | -2 | -2 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Nov) | 2 |  | 0 |
-| 15:00 | USD | Richmond Services Index (Nov) | -7 |  | 2 |
-| 16:30 | USD | 52-Week Bill Auction | 4.365% |  | 3.980% |
-| 18:00 | USD | M2 Money Supply (MoM) (Oct) |  |  | 23.41T |
-| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) (Oct) |  | 3.6% | 3.7% |
+| 00:30 | AUD | Trimmed Mean CPI (YoY) (Oct) | 3.8% | 3.6% | 3.6% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 4.90% | 4.70% | 4.30% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.4% |
+| 07:00 | NOK | Unemployment Rate (Oct) |  |  | 5.0% |
+| 07:45 | EUR | French Consumer Confidence (Nov) |  | 82 | 80 |
+| 09:00 | CHF | ZEW Expectations (Nov) |  |  | -15.3 |
+| 11:30 | INR | M3 Money Supply |  |  | 16.5% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.35% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.3% |
+| 12:00 | USD | MBA Purchase Index |  |  | 137.6 |
+| 12:00 | USD | Mortgage Market Index |  |  | 199.8 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 532.8 |
+| 13:30 | USD | Building Permits (MoM) (Oct) |  | -7.4% | -0.4% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 7.7% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 2.3% |
+| 13:30 | USD | GDP Sales (Q3) |  | 1.7% | 2.8% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.5% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 197.75K |
+| 13:30 | USD | PCE Prices (Q3) |  | 2.1% | 2.1% |
+| 13:30 | USD | Personal Income (MoM) (Oct) |  | 0.4% | 0.2% |
+| 13:30 | USD | Real Consumer Spending (Q3) |  | 3.8% | 3.8% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
+| 14:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 15:00 | USD | Dallas Fed PCE (Oct) |  |  | 2.80% |
+| 15:00 | MXN | Current Account (USD) (Q3) |  | 3,000M | 8,927M |
+| 15:00 | MXN | Current Account % of GDP (Q3) |  |  | 1.65% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.129M |
+| 15:30 | USD | Crude Oil Imports |  |  | -2.155M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.140M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.571M |
+| 15:30 | USD | Gasoline Production |  |  | -0.202M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.775M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
+| 15:30 | USD | Gasoline Inventories |  |  | 5.192M |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.050% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.110% |
+| 17:00 | USD | Natural Gas Storage |  | -19B | 20B |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 1.293B |

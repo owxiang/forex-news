@@ -1,47 +1,74 @@
-## 24 November 2026 - All Forex News
+## 25 November 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (QoQ) (Q3) | 1.5% | 1.1% | 1.8% |
-| 00:00 | SGD | Low | GDP (YoY) (Q3) | 6.1% | 5.4% | 6.4% |
-| 00:30 | JPY | Low | Manufacturing & Services PMI (Nov) | 51.50 |  | 52.10 |
-| 00:30 | JPY | Low | S&P Global Manufacturing PMI (Nov) | 53.7 | 53.5 | 53.3 |
-| 00:30 | JPY | Moderate | S&P Global Services PMI (Nov) | 50.5 |  | 51.7 |
-| 05:00 | GBP | Low | Car Registration (YoY) (Oct) | 5.4% |  | 12.0% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Oct) | -56.4% |  | 272.0% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Oct) | -5.4% |  | 100.5% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Oct) | 5.0% |  | 9.8% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Oct) | 1.7% |  | 9.0% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Oct) | -0.9% |  | 20.8% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Oct) | -4.7% |  | 66.0% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Oct) | 7.0% |  | 11.6% |
-| 07:00 | NOK | Low | M3 Money Supply (Oct) | 3,651.6B |  | 3,635.6B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Oct) | 4.9% |  | 4.9% |
-| 07:00 | ZAR | Low | Leading Indicators (Sep) | 119.30% |  | 119.60% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Oct) | 19.9% |  | 18.3% |
-| 09:00 | EUR | Moderate | German Business Expectations (Nov) | 91.9 | 92.0 | 91.5 |
-| 09:00 | EUR | Moderate | German Current Assessment (Nov) | 89.4 | 89.2 | 88.8 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) | 90.6 | 90.5 | 90.1 |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) | 9 | -27 | -10 |
-| 11:00 | BRL | Low | FGV Consumer confidence (Nov) | 83.5 |  | 84.7 |
-| 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) | -0.10% | 0.10% | 0.25% |
-| 12:00 | MXN | Low | 1st Half-Month CPI (Nov) | 0.54% | 0.51% | 0.41% |
-| 12:00 | BRL | Low | Federal Tax Revenue (Oct) | 293.98B |  | 239.38B |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly | 21.00K |  | 23.80K |
-| 13:55 | USD | Low | Redbook (YoY) | 11.3% |  | 9.5% |
-| 14:00 | USD | Low | House Price Index (MoM) (Sep) | 0.0% | 0.2% | 0.2% |
-| 14:00 | USD | Low | House Price Index (YoY) (Sep) | 2.5% |  | 2.4% |
-| 14:00 | USD | Low | House Price Index (Sep) | 444.4 |  | 444.3 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.1% |  | 0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) | -0.5% |  | -0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) | 2.6% | 2.7% | 2.6% |
-| 15:00 | USD | High | CB Consumer Confidence (Nov) | 103.3 | 92.4 | 91.9 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Nov) | 3 | -2 | -2 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Nov) | 2 |  | 0 |
-| 15:00 | USD | Low | Richmond Services Index (Nov) | -7 |  | 2 |
-| 16:30 | USD | Low | 52-Week Bill Auction | 4.365% |  | 3.980% |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.708% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Oct) |  |  | 23.41T |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.900M | 5.300M |
-| 23:20 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) (Oct) |  | 3.6% | 3.7% |
+| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | 0.9% | 0.8% | -0.1% |
+| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Oct) | 3.8% | 3.6% | 3.6% |
+| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) | 4.90% | 4.70% | 4.30% |
+| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.4% |
+| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.5% | 2.5% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | 1.2% | 1.2% |
+| 07:00 | NOK | Low | Unemployment Rate (Oct) |  |  | 5.0% |
+| 07:45 | EUR | Low | French Consumer Confidence (Nov) |  | 82 | 80 |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 09:00 | CHF | Low | ZEW Expectations (Nov) |  |  | -15.3 |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.370% |
+| 11:30 | INR | Low | M3 Money Supply |  |  | 16.5% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.35% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.3% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 137.6 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 199.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 532.8 |
+| 13:30 | USD | Moderate | Building Permits (Oct) |  | 1.295M | 1.398M |
+| 13:30 | USD | Low | Building Permits (MoM) (Oct) |  | -7.4% | -0.4% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,763K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.5% | 0.5% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.3% | 0.3% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  | 3.2% | 3.1% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.50% | 3.30% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 7.7% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Oct) |  | 0.7% | 1.8% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  |  | 2.3% |
+| 13:30 | USD | High | GDP (QoQ) (Q3) |  | 3.4% | 2.2% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.2% | 6.1% |
+| 13:30 | USD | Low | GDP Sales (Q3) |  | 1.7% | 2.8% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.5% |
+| 13:30 | USD | High | Initial Jobless Claims |  | 201K | 203K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 197.75K |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Oct) |  | 3.8% | 3.6% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.3% | 0.5% |
+| 13:30 | USD | Low | PCE Prices (Q3) |  | 2.1% | 2.1% |
+| 13:30 | USD | Low | Personal Income (MoM) (Oct) |  | 0.4% | 0.2% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Oct) |  | 0.4% | 0.5% |
+| 13:30 | USD | Low | Real Consumer Spending (Q3) |  | 3.8% | 3.8% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  |  | 0.7% |
+| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 14:15 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 15:00 | USD | Low | Dallas Fed PCE (Oct) |  |  | 2.80% |
+| 15:00 | USD | High | New Home Sales (Oct) |  | 650K | 676K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | -0.6% |
+| 15:00 | MXN | Low | Current Account (USD) (Q3) |  | 3,000M | 8,927M |
+| 15:00 | MXN | Low | Current Account % of GDP (Q3) |  |  | 1.65% |
+| 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | 3.380M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.129M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -2.155M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.209M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.140M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.571M |
+| 15:30 | USD | Low | Gasoline Production |  |  | -0.202M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.775M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | 5.192M |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.050% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.110% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
+| 17:00 | USD | Low | Natural Gas Storage |  | -19B | 20B |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.293B |
+| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.894% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 469 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 607 |
+| 19:00 | USD | Moderate | Beige Book |  |  |  |
