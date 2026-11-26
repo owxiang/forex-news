@@ -1,40 +1,43 @@
-## 25 November 2026 - Low Impact Forex News
+## 26 November 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trimmed Mean CPI (YoY) (Oct) | 3.8% | 3.6% | 3.6% |
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 4.90% | 4.70% | 4.30% |
-| 00:30 | AUD | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.4% |
-| 07:00 | NOK | Unemployment Rate (Oct) | 4.6% |  | 5.0% |
-| 07:45 | EUR | French Consumer Confidence (Nov) | 82 | 82 | 81 |
-| 09:00 | CHF | ZEW Expectations (Nov) | 2.3 |  | -15.3 |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.38% |  | 7.35% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 6.1% |  | -2.3% |
-| 12:00 | USD | MBA Purchase Index | 151.6 |  | 137.6 |
-| 12:00 | USD | Mortgage Market Index | 212.0 |  | 199.8 |
-| 12:00 | USD | Mortgage Refinance Index | 535.5 |  | 532.8 |
-| 13:30 | USD | Building Permits (MoM) (Oct) | -7.2% | -7.4% | -0.4% |
-| 13:30 | USD | Corporate Profits (QoQ) (Q3) | 3.8% |  | 7.7% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Oct) | 0.4% |  | 2.4% |
-| 13:30 | USD | GDP Sales (Q3) | 2.6% | 1.7% | 2.8% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) | 1.2% |  | 0.8% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 196.00K |  | 197.50K |
-| 13:30 | USD | PCE Prices (Q3) | 2.1% | 2.1% | 5.0% |
-| 13:30 | USD | Personal Income (MoM) (Oct) | 0.7% | 0.4% | 0.3% |
-| 13:30 | USD | Real Consumer Spending (Q3) | 4.2% | 3.8% | 3.8% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Oct) | 0.0% |  | 0.1% |
-| 14:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 15:00 | USD | 4-Week Bill Auction | 4.115% |  | 4.050% |
-| 15:00 | USD | 8-Week Bill Auction | 4.120% |  | 4.110% |
-| 15:00 | MXN | Current Account (USD) (Q3) | 1,142M | 3,000M | 2,458M |
-| 15:00 | MXN | Current Account % of GDP (Q3) | 0.21% |  | 0.45% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.428M |  | -0.129M |
-| 15:30 | USD | Crude Oil Imports | 1.893M |  | -2.155M |
-| 15:30 | USD | Distillate Fuel Production | -0.012M |  | 0.140M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.715M | 1.500M | 1.571M |
-| 15:30 | USD | Gasoline Production | 0.258M |  | -0.202M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.219M |  | -0.775M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | 0.5% |
-| 15:30 | USD | Gasoline Inventories | 1.733M | 2.000M | 5.192M |
-| 17:00 | USD | Natural Gas Storage | -24B | -19B | 20B |
-| 17:30 | BRL | Foreign Exchange Flows | -1.535B |  | 1.293B |
+| 00:30 | AUD | Building Capital Expenditure (MoM) (Q3) | 1.7% |  | 2.1% |
+| 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 23.1% |  | -8.9% |
+| 00:30 | AUD | RBA Bulletin |  |  |  |
+| 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
+| 01:00 | KRW | Interest Rate Decision (Nov) | 3.25% | 3.25% | 3.00% |
+| 01:00 | JPY | BoJ Tamura Speaks |  |  |  |
+| 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  | 0.7% | -1.8% |
+| 05:00 | JPY | Leading Index (Sep) |  | 116.4 | 118.0 |
+| 05:00 | JPY | Leading Index (MoM) (Sep) |  | -1.6% | 0.4% |
+| 05:00 | SGD | Industrial Production (YoY) (Oct) | 6.1% | 2.3% | 5.0% |
+| 05:00 | SGD | Industrial Production (MoM) (Oct) | 7.1% |  | -3.2% |
+| 07:00 | NOK | GDP (QoQ) (Q3) |  |  | 0.7% |
+| 07:00 | NOK | GDP Mainland (QoQ) (Q3) |  | 0.4% | 0.3% |
+| 07:45 | EUR | French PPI (MoM) (Oct) |  |  | 1.7% |
+| 07:45 | EUR | PPI (YoY) (Oct) |  |  | 6.80% |
+| 08:30 | HKD | Exports (MoM) (Oct) |  |  | 64.9% |
+| 08:30 | HKD | Imports (MoM) (Oct) |  |  | 57.8% |
+| 08:30 | HKD | Trade Balance |  |  | -46.3B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Oct) |  | 3.5% | 3.5% |
+| 09:00 | EUR | M3 Money Supply (Oct) |  |  | 17,717.3B |
+| 09:00 | EUR | Loans to Non Financial Corporations (Oct) |  |  | 4.2% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Oct) |  | 3.2% | 3.1% |
+| 09:30 | ZAR | PPI (MoM) (Oct) |  |  | 1.0% |
+| 09:30 | ZAR | PPI (YoY) (Oct) |  |  | 6.2% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.853% |
+| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 11:30 | BRL | Current Account (USD) (Oct) |  | -2.90B | -5.10B |
+| 11:30 | BRL | Foreign direct investment (USD) (Oct) |  | 7.90B | 11.29B |
+| 12:00 | MXN | Unemployment Rate (Oct) |  |  | 2.60% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Oct) |  | 2.70% | 2.80% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Nov) |  | 0.36% | 0.32% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 4.62% |
+| 12:00 | BRL | Brazilian PPI (MoM) (Oct) |  |  | 1.54% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Sep) |  |  | 3.68% |
+| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 2.4% |
+| 23:30 | JPY | Tokyo CPI (YoY) (Nov) |  |  | 2.8% |
+| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.6% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -440.7B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -224.1B |
