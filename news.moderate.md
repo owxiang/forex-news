@@ -10,4 +10,4 @@
 | 10:30 | GBP | BoE Financial Stability Report |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Oct) | 3,160.4K |  | 3,192.5K |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 23:30 | JPY | Tokyo Core CPI (YoY) (Nov) |  | 3.0% | 2.6% |
+| 23:30 | JPY | Tokyo Core CPI (YoY) (Nov) | 2.9% | 3.0% | 2.6% |

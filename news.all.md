@@ -45,9 +45,9 @@
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Oct) | 0.98% |  | 1.53% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Sep) | 3.29% |  | 3.42% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 2.4% |
-| 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Nov) |  | 3.0% | 2.6% |
-| 23:30 | JPY | Low | Tokyo CPI (YoY) (Nov) |  |  | 2.8% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.6% |
+| 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) | 2.3% |  | 2.4% |
+| 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Nov) | 2.9% | 3.0% | 2.6% |
+| 23:30 | JPY | Low | Tokyo CPI (YoY) (Nov) | 2.8% |  | 2.8% |
+| 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Nov) | 0.0% |  | 0.6% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -440.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -224.1B |
